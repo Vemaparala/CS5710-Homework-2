@@ -6,6 +6,24 @@ Student Name: Vemparala Nishitha
 Student id : 700774602
 University: University of Central Missouri
 
+## 📌 Overview
+This assignment covers:
+- Decision Trees
+- k-Nearest Neighbors
+- Model Evaluation Metrics
+- ROC Curve Analysis
+
+---
+
+## 🔹 Part A
+Includes:
+- Decision stump error calculation
+- Entropy and Information Gain
+- Confusion matrix metrics
+- kNN distance computation
+- Cross-validation analysis
+
+
 # ==============================
 # Q7 - Decision Tree (Iris)
 # ==============================
